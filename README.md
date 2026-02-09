@@ -1,47 +1,74 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Aspiring Java Full Stack Developer from India</h3>
+<h3 align="center">Java & Spring Boot Developer | Backend Enthusiast | Problem Solver</h3>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Spring Boot & React**
-- 💻 Interested in **Backend Development & REST APIs**
-- 🎯 Goal: Become **Job-ready Java Full Stack Developer**
+## 🚀 About Me
+- 🌱 I’m currently learning **Advanced Spring Boot, Microservices, and System Design**
+- 💻 I build **Full Stack Web Applications using Java, Spring Boot, React, and MySQL**
+- 🔐 Interested in **Spring Security, JWT, OAuth2 Authentication**
+- 🎯 Goal: **Become a Professional Backend Developer in a Product-Based Company**
 - 📫 Reach me at: **ankitsonwani.aks@gmail.com**
 
 ---
 
-### 🛠 Tech Stack
-**Languages:**  
-Java, SQL, JavaScript (Learning)
+## 🛠 Tech Stack
+### Languages
+Java, SQL, JavaScript 
 
-**Backend:**  
-Spring Boot, Spring Security, REST API, JPA, Hibernate
+### 👨‍💻 Backend
+- Java, Spring Boot, Spring MVC
+- Spring Security, JWT, OAuth2
+- REST API Development
+- Hibernate, JPA
 
-**Frontend:**  
-React, HTML, CSS, Bootstrap
+### 🎨 Frontend
+- HTML, CSS, JavaScript
+- Bootstrap, React
 
-**Database:**  
-MySQL
+### 🗄️ Database
+- MySQL
+- SQL Server
 
-**Tools:**  
-Git, GitHub, Postman, VS Code, IntelliJ
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Maven  
+- Postman  
+- IntelliJ IDEA / VS Code 
+---
+
+## 📌 Featured Projects
+
+### 🔹 Blog Application (Spring Boot + Security)
+- User authentication with **JWT & OAuth2**
+- CRUD operations for posts & comments
+- Role-based authorization  
+👉 Repo Link: https://github.com/your-username/blog-app
+
+### 🔹 Student Registration System
+- JSP + Servlet + MySQL integration  
+- Form validation & database storage  
+👉 Repo Link: https://github.com/your-username/student-registration
 
 ---
 
-### 📂 Featured Projects
-- 🔹 **Spring Boot REST API** – User authentication & CRUD  
-- 🔹 **React UI Project** – Responsive frontend with API integration  
-- 🔹 **Student Management System** – Full Stack (Spring Boot + React)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-sonwani&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-sonwani&theme=tokyonight" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-sonwani&show_icons=true&theme=default)
+## 🏆 Career Objective
+> Passionate **Spring Boot Developer** seeking an opportunity to contribute to
+> real-world backend systems, write clean scalable code, and grow in a
+> professional development environment.
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/ankit-sonwani
 - Email: ankitsonwani.aks@gmail.com
 
