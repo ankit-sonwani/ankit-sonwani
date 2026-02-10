@@ -43,20 +43,23 @@ Java, SQL, JavaScript
 - User authentication with **JWT & OAuth2**
 - CRUD operations for posts & comments
 - Role-based authorization  
-👉 Repo Link: https://github.com/your-username/blog-app
+👉 Repo Link: https://github.com/ankit-sonwani/blog-app
 
 ### 🔹 Student Registration System
 - JSP + Servlet + MySQL integration  
 - Form validation & database storage  
-👉 Repo Link: https://github.com/your-username/student-registration
+👉 Repo Link: https://github.com/ankit-sonwani/student-registration
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-sonwani&show_icons=true&theme=tokyonight" />
+  <!---<img src="https://github-readme-stats.vercel.app/api?username=ankit-sonwani&show_icons=true&theme=tokyonight" />-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-sonwani&theme=tokyonight" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-sonwani&layout=compact&theme=tokyonight" /> -->
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ankit-sonwani&theme=tokyonight" /> -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=ankit-sonwani&color=blue" /> -->
 </p>
 
 ---
